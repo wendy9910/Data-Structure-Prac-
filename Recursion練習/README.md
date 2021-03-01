@@ -1,21 +1,21 @@
 ### Recursion遞迴練習
 -----------------
-<b>(範例一)GCD</b>
+<b>(一)GCD</b>
 
 
-<b>(範例二)費伯納西數</b>
+<b>(二)費伯納西數</b>
 
-運用兩種方法:(一)recursion遞迴(二)Iteration
+運用兩種方法:(1)recursion遞迴(2)Iteration
 
-<b>(範例三)費伯納西數</b> 
+<b>(三)費伯納西數</b> 
 
 運用Dynamic Programming方法
 
-<b>(範例四)二項式係數(Binomal Coe)</b>
+<b>(四)二項式係數(Binomal Coe)</b>
 
-<b>(範例五)n次方</b>
+<b>(五)n次方</b>
 
-<b>(範例六)Ackerman Function</b>
+<b>(六)Ackerman Function</b>
 
 <br>Ackerman Function樹狀圖:
 <br>
