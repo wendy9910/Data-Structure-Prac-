@@ -16,6 +16,7 @@
 <b>(範例五)n次方</b>
 
 <b>(範例六)Ackerman Function</b>
-
+Ackerman Function樹狀圖:
+<br>
 <a href="https://ibb.co/NY6Dy0w"><img src="https://i.ibb.co/C05CHjx/Ackermann.png" alt="Ackermann" border="0"></a>
-:<a href="http://notepad.yehyeh.net/Content/DS/CH02/7.php">圖片來源</a>
+<br><a href="http://notepad.yehyeh.net/Content/DS/CH02/7.php">圖片來源:http://notepad.yehyeh.net/Content/DS/CH02/7.php</a>
