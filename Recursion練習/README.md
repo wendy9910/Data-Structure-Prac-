@@ -17,5 +17,5 @@
 
 <b>(範例六)Ackerman Function</b>
 
-<a href="http://notepad.yehyeh.net/Content/DS/CH02/img/Ackermann22.png" alt="Ackermann" border="0"></a>
-圖片來源:<a href="http://notepad.yehyeh.net/Content/DS/CH02/7.php"></a>
+<a href="https://ibb.co/NY6Dy0w"><img src="https://i.ibb.co/C05CHjx/Ackermann.png" alt="Ackermann" border="0"></a>
+:<a href="http://notepad.yehyeh.net/Content/DS/CH02/7.php">圖片來源</a>
