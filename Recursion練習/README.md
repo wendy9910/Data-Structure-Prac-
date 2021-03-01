@@ -13,3 +13,7 @@
 
 <b>(範例四)二項式係數(Binomal Coe)</b>
 
+<b>(範例五)n次方</b>
+
+<b>(範例六)Ackerman Function</b>
+<img scr="https://ibb.co/NY6Dy0w">
