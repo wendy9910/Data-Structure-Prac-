@@ -5,7 +5,6 @@ int main(){
     printf("輸入兩個值:");
     scanf("%d %d",&a,&b);
     printf("得到:%d 呼叫次數:%d",Ack(a,b),count);
-
 }
 int Ack(int m,int n){
     if(m==0) return n+1;
